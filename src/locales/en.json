@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "title": "Project Management Platform",
+    "home": "Home",
+    "overview": "Overview",
+    "progress": "Progress",
+    "switch": "Switch Language"
+  },
+  "homePage": {
+    "title": "Project Management Platform",
+    "welcome": "Welcome to our Development Project Management Platform",
+    "viewAllProjects": "View All Projects",
+    "progressTracking": "Progress Tracking",
+    "recentlyUpdatedProjects": "Recently Updated Projects",
+    "projectOverview": "Project Overview",
+    "progressDashboard": "Progress Dashboard"
+  }
+}

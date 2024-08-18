@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "title": "開發項目管理平台",
+    "home": "首頁",
+    "overview": "項目概覽",
+    "progress": "項目進度",
+    "switch": "切換語言"
+  },
+  "homePage": {
+    "title": "開發項目管理平台",
+    "welcome": "歡迎來到我們的開發項目管理平台",
+    "viewAllProjects": "查看所有項目",
+    "progressTracking": "進度追蹤",
+    "recentlyUpdatedProjects": "最近更新的項目",
+    "projectOverview": "項目總覽",
+    "progressDashboard": "進度儀表板"
+  }
+}
